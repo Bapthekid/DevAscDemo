@@ -1,6 +1,7 @@
 import random
 import time
 
+print(" Welcome to DevAscDemo python script!") 
 print("Welcome to the Magic Number Guessing Game!")
 time.sleep(1)
 print("I'm thinking of a number between 1 and 100...")
